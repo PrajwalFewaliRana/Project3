@@ -1,0 +1,17 @@
+.splide__pagination{
+    bottom: -50px;
+}
+.splide__pagination__page.is-active{
+
+    background: #0266ff !important;
+    opacity: 1;
+}
+.splide__pagination__page{
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    background: #0267ff88 !important;
+    margin-left: 15px;
+    margin-right: 15px;
+    
+}

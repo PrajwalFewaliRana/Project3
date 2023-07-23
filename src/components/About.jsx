@@ -6,7 +6,7 @@ import img3 from "../assets/about3.jpg";
 const About = () => {
   return (
     <div className="mx-[80px]">
-      <h1 className="text-center font-bold text-[60px] leading-tight">
+      <h1 className="text-center font-bold text-[55px] leading-tight">
         <span className="text1">About</span> Us
       </h1>
       <p className="text-center font-semibold tracking-wider leading-tight text-[#000000a2] mb-[40px] mt-[10px]">

@@ -5,6 +5,7 @@ import Hero from "./components/Hero"
 import Navbar from "./components/Navbar"
 import Needed from "./components/Needed"
 import OurOffers from "./components/OurOffers"
+import Popular from "./components/Popular"
 import Services from "./components/Services"
 
 
@@ -15,6 +16,7 @@ function App() {
       <Navbar />
       <Hero />
       <Details />
+      <Popular />
       <About />
       <Needed />
       <Services />

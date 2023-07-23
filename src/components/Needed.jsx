@@ -6,7 +6,7 @@ import { SiYourtraveldottv } from "react-icons/si";
 const Needed = () => {
   return (
     <div className="mx-[80px] mt-[150px] mb-[70px]">
-      <h1 className="text-center font-bold text-[60px] leading-tight">
+      <h1 className="text-center font-bold text-[55px] leading-tight">
         Things you need to
       </h1>
       <p className="text-center font-semibold tracking-wider leading-tight text-[#000000a2] my-[35px]">
