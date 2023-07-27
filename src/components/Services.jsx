@@ -6,7 +6,7 @@ import img4 from "../assets/services4.jpg";
 
 const Services = () => {
   return (
-    <div className=" mx-[80px] flex items-center gap-[100px]">
+    <div className=" mx-[80px] mt-[200px] flex items-center gap-[100px]">
       <div className=" grid grid-cols-2 grid-rows-2 gap-[15px] w-[35.5vw]  ">
         <div className="w-[235px] rounded-xl h-[40vh]">
           <img

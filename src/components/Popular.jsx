@@ -17,8 +17,6 @@ const Popular = () => {
     arrows: false,
     autoplay:true,
     interval:1700,
-    pauseOnFocus:false,
-    pauseOnHover:false,
     breakpoints: {
       1200: { perPage: 4 },
       991: { perPage: 4 },
@@ -28,7 +26,7 @@ const Popular = () => {
     },
   };
   return (
-    <div className="mx-[80px] my-[100px]">
+    <div className="mx-[80px] mt-[130px] mb-[150px]">
       <h1 className="text-center font-bold text-[55px] leading-tight mb-[40px]">
         Popular <span className="text1">Destination</span>
       </h1>
